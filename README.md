@@ -10,9 +10,8 @@ UrbanGarden is a Laravel-based social networking platform for houseplant enthusi
 - Admin panel for managing plants and users
 
 ## Screenshots
-![Home Page](screenshots/homepage.png)
-![Plant Details](screenshots/plant_details.png)
-![Profile Page](screenshots/profile.png)
+![Home Page](screenshots/homepage.jpg)
+![Plant Details](screenshots/plant_details.jpg)
 
 ## Tech Stack
 - Backend: Laravel (PHP)
